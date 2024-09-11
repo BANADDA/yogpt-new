@@ -1,0 +1,8 @@
+The quick brown fox jumps over the lazy dog.
+Artificial intelligence is transforming the world.
+Federated learning allows training models across devices without sharing data.
+Natural language processing is a key technology in AI research.
+This is a sample text for testing the GPT-2 model.
+The cat sat on the mat, and the dog barked at the moon.
+Machine learning is a subset of artificial intelligence.
+Cloud computing enables scalable AI solutions.

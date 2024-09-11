@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+flwr
+transformers
+torch
+datasets
+google-cloud-firestore
